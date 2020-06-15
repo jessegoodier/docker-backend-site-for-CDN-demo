@@ -1,1 +1,2 @@
-.DS_Store
+etc/nginx/ssl/privkey1.pem
+etc/nginx/ssl/fullchain1.pem
