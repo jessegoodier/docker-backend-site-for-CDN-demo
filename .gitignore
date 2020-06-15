@@ -1,2 +1,2 @@
-etc/nginx/ssl/privkey1.pem
-etc/nginx/ssl/fullchain1.pem
+etc/ssl/privkey1.pem
+etc/ssl/fullchain1.pem
