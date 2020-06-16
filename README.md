@@ -1,7 +1,8 @@
 # image-dump for NGINX Plus CDN Demo (uses nginx OSS)
 Creates a docker container to use as a target for a CDN demo. I use this backend that I put in Asia: <https://github.com/jessegoodier/docker-backend-site-for-CDN-demo>
 
-All images are mine and free to share.
+All images are mine and free to share. Demo site with a lot of latency: <http://aws-singapore.8loop.guru/>
+Demo CDN <http://aws-ohio.8loop.guru/>
 
 forked from: <https://github.com/danyalette/image-dump>
 
