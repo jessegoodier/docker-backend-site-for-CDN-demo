@@ -3,8 +3,8 @@ Creates a docker container to use as a target for a CDN demo. I deploy this repo
 
 NGINX Plus CDN Demo repo: <https://github.com/jessegoodier/docker-caching-example>
 
-All images are mine and free to share. Demo site with a lot of latency: <http://aws-singapore.8loop.guru/>
-Demo CDN <http://aws-ohio.8loop.guru/>
+All images are mine and free to share. Demo site with a lot of latency: <http://aws-singapore.nginx.rocks/>
+Demo CDN <http://aws-ohio.nginx.rocks/>
 
 forked from: <https://github.com/danyalette/image-dump>
 
