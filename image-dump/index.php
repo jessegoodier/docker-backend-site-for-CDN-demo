@@ -9,7 +9,7 @@ $max_page = 12; //pics per page
 <!DOCTYPE html>
 <html>
 <head>
-     <title> Images </title>
+     <title>NGINX CDN Demo</title>
      <link href='style.css' rel='stylesheet' />   
 </head>
 <script src='jquery-1.11.3.min.js'></script>
