@@ -79,12 +79,12 @@ img{
 .lightbox-content{
     position: relative;
     background: rgb(255, 255, 255);
-    width: 1900px;
+    width: 1500px;
     margin: auto;
     max-height: 100%;
     max-width: 100%;
     overflow:auto;
-    padding:30px;
+    padding:3px;
     box-sizing: border-box;
     display: inline-block;
 }
