@@ -78,8 +78,8 @@ img{
 }
 .lightbox-content{
     position: relative;
-    background: #fff;
-    width: 900px;
+    background: rgb(255, 255, 255);
+    width: 1900px;
     margin: auto;
     max-height: 100%;
     max-width: 100%;
