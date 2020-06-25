@@ -14,7 +14,7 @@ $max_page = 12; //pics per page
 </head>
 <script src='jquery-1.11.3.min.js'></script>
 <script language="JavaScript" src="PageLoadTime.js"></script>
-<body>This is the actual web server in Singapore.<p>
+     <body>The code to this project is on <a href="https://github.com/jessegoodier/docker-backend-site-for-CDN-demo">github</a>.<p>This is the actual web server in Singapore.</p><p>
     Caching site in Ohio:<a href="http://aws-ohio.nginx.rocks">http://aws-ohio.nginx.rocks</a></p>
 <script language="JavaScript">
 PLT_DisplayFormat = "Your connection took %%S%% seconds to load the page.";
