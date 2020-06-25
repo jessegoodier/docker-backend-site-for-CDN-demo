@@ -14,8 +14,8 @@ $max_page = 12; //pics per page
 </head>
 <script src='jquery-1.11.3.min.js'></script>
 <script language="JavaScript" src="PageLoadTime.js"></script>
-<body>This is the caching site in Ohio.<p>
-    Upstream website:<a href="http://aws-singapore.nginx.rocks">http://aws-singapore.nginx.rocks</a></p>NGINX Plus Dashboard: <a href="http://aws-ohio.nginx.rocks:8080/dashboard.html">http://aws-ohio.nginx.rocks:8080/dashboard.html</a><p></p>
+<body>This is the actual web server in Singapore.<p>
+    Caching site in Ohio:<a href="http://aws-ohio.nginx.rocks">http://aws-ohio.nginx.rocks</a></p>
 <script language="JavaScript">
 PLT_DisplayFormat = "Your connection took %%S%% seconds to load the page.";
 PLT_BackColor = "palegreen";
